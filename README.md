@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjerv
-- 👀 I’m interested in Terralabs
+- 👀 I’m interested in growing, exploring, and learning
 - 🌱 I’m currently learning about GitHub
 
 <!---
